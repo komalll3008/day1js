@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exercise 4e</title>
+
+    <style>
+        .add-button {
+            background-color: yellow;
+        }
+
+        .buy-button {
+            background-color: orange;
+        }
+    </style>
+</head>
+
+<body>
+
+<button class="add-button">Add to cart</button>
+
+<button class="buy-button">Buy now</button>
+
+</body>
+</html>
